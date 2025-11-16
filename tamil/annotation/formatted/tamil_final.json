@@ -1,0 +1,1250 @@
+{
+  "NA_1.jpg28874": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [100, 198],
+          [100, 148],
+          [164, 153],
+          [175, 133],
+          [196, 133],
+          [203, 151],
+          [240, 156],
+          [239, 202],
+          [206, 200],
+          [185, 213],
+          [162, 210],
+          [161, 194],
+          [99, 196]
+        ],
+        "text": "வாழ்க",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [247, 203],
+          [346, 207],
+          [355, 225],
+          [398, 228],
+          [401, 208],
+          [537, 222],
+          [552, 174],
+          [550, 160],
+          [511, 129],
+          [474, 153],
+          [247, 155],
+          [245, 203]
+        ],
+        "text": "வளமுடன்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "1.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_2.jpg278979": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [591, 398],
+          [888, 394],
+          [878, 507],
+          [593, 523],
+          [591, 400]
+        ],
+        "text": "சித்ரா",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [681, 583],
+          [708, 525],
+          [765, 527],
+          [765, 593],
+          [683, 587],
+          [681, 581]
+        ],
+        "text": "&",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [459, 745],
+          [1032, 728],
+          [1032, 591],
+          [950, 593],
+          [948, 617],
+          [693, 622],
+          [661, 578],
+          [462, 654],
+          [464, 747]
+        ],
+        "text": "ஆதிமூலம்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "2.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_3.jpg38310": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [75, 45],
+          [147, 56],
+          [152, 39],
+          [200, 51],
+          [198, 70],
+          [423, 113],
+          [423, 98],
+          [461, 102],
+          [463, 118],
+          [502, 120],
+          [504, 188],
+          [270, 151],
+          [260, 153],
+          [68, 123],
+          [77, 44]
+        ],
+        "text": "நந்தவனம்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [333, 162],
+          [379, 169],
+          [384, 181],
+          [434, 193],
+          [442, 182],
+          [472, 185],
+          [473, 193],
+          [497, 205],
+          [497, 249],
+          [332, 225],
+          [335, 162]
+        ],
+        "text": "மெஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "3.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_4.jpg29565": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [63, 155],
+          [168, 149],
+          [170, 142],
+          [181, 141],
+          [183, 148],
+          [195, 151],
+          [189, 183],
+          [129, 185],
+          [117, 192],
+          [95, 189],
+          [74, 193],
+          [67, 181],
+          [65, 155]
+        ],
+        "text": "முருகன்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [205, 178],
+          [212, 140],
+          [282, 144],
+          [294, 133],
+          [309, 136],
+          [307, 178],
+          [204, 179]
+        ],
+        "text": "இட்லி",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [327, 175],
+          [429, 171],
+          [428, 157],
+          [413, 158],
+          [409, 135],
+          [327, 142],
+          [325, 175],
+          [329, 175]
+        ],
+        "text": "கடை",
+        "script_language": "tamil"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [19, 239],
+          [220, 233],
+          [220, 196],
+          [23, 203],
+          [19, 237]
+        ],
+        "text": "MURUGAN",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [234, 233],
+          [343, 233],
+          [338, 194],
+          [236, 197],
+          [235, 232]
+        ],
+        "text": "IDLI",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [356, 230],
+          [353, 192],
+          [489, 191],
+          [489, 229],
+          [356, 231]
+        ],
+        "text": "SHOP",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          [495, 174],
+          [496, 185],
+          [505, 182],
+          [503, 173],
+          [493, 171],
+          [495, 175]
+        ],
+        "text": "R",
+        "script_language": "english"
+      }
+    },
+    "url": "NA",
+    "image_name": "4.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_5.jpg9677": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [14, 61],
+          [57, 61],
+          [67, 44],
+          [93, 49],
+          [90, 113],
+          [9, 114],
+          [13, 61]
+        ],
+        "text": "ஸ்ரீ",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [120, 100],
+          [327, 98],
+          [327, 46],
+          [295, 45],
+          [289, 59],
+          [122, 63],
+          [121, 99]
+        ],
+        "text": "வாஸவி",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "5.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_6.jpg25225": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [41, 69],
+          [142, 73],
+          [149, 52],
+          [164, 53],
+          [170, 70],
+          [169, 133],
+          [135, 136],
+          [129, 144],
+          [123, 143],
+          [120, 125],
+          [41, 124],
+          [41, 68]
+        ],
+        "text": "சுமதி",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [188, 75],
+          [327, 75],
+          [329, 56],
+          [342, 57],
+          [347, 80],
+          [364, 84],
+          [361, 131],
+          [282, 131],
+          [269, 144],
+          [242, 143],
+          [223, 127],
+          [215, 142],
+          [188, 139],
+          [180, 95],
+          [189, 75]
+        ],
+        "text": "முருகன்",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [83, 151],
+          [171, 145],
+          [187, 141],
+          [201, 158],
+          [293, 160],
+          [301, 142],
+          [321, 142],
+          [325, 163],
+          [340, 175],
+          [339, 217],
+          [73, 222],
+          [74, 175],
+          [83, 151]
+        ],
+        "text": "இல்லம்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "6.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_7.jpg43398": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [57, 77],
+          [57, 65],
+          [97, 66],
+          [96, 79],
+          [56, 78]
+        ],
+        "text": "Since",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [135, 75],
+          [134, 65],
+          [98, 66],
+          [97, 77],
+          [134, 79],
+          [135, 73]
+        ],
+        "text": "2014",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [51, 139],
+          [115, 136],
+          [115, 114],
+          [149, 113],
+          [151, 139],
+          [155, 186],
+          [122, 201],
+          [55, 191],
+          [51, 140]
+        ],
+        "text": "ஸ்ரீ",
+        "script_language": "tamil"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [167, 184],
+          [470, 187],
+          [462, 120],
+          [423, 118],
+          [422, 135],
+          [168, 129],
+          [167, 183]
+        ],
+        "text": "லெட்சுமி",
+        "script_language": "tamil"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [111, 243],
+          [112, 206],
+          [227, 209],
+          [233, 201],
+          [246, 201],
+          [248, 211],
+          [305, 211],
+          [310, 203],
+          [323, 204],
+          [329, 213],
+          [353, 213],
+          [354, 201],
+          [372, 201],
+          [373, 213],
+          [396, 218],
+          [395, 253],
+          [211, 249],
+          [203, 256],
+          [192, 253],
+          [185, 248],
+          [109, 245]
+        ],
+        "text": "மெடிகல்ஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "7.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_8.jpg45319": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [61, 141],
+          [200, 146],
+          [208, 132],
+          [222, 133],
+          [225, 148],
+          [299, 151],
+          [301, 139],
+          [319, 139],
+          [320, 155],
+          [331, 158],
+          [329, 194],
+          [61, 177],
+          [63, 141]
+        ],
+        "text": "வணக்கம்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [73, 206],
+          [175, 213],
+          [167, 231],
+          [307, 244],
+          [303, 284],
+          [89, 261],
+          [73, 205]
+        ],
+        "text": "Welcome",
+        "script_language": "english"
+      }
+    },
+    "url": "NA",
+    "image_name": "8.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_9.png171087": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [27, 26],
+          [122, 27],
+          [118, 64],
+          [269, 75],
+          [275, 57],
+          [301, 57],
+          [303, 76],
+          [351, 80],
+          [349, 142],
+          [103, 128],
+          [35, 125],
+          [7, 75],
+          [27, 26]
+        ],
+        "text": "பெமஸ்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [8, 143],
+          [35, 145],
+          [39, 130],
+          [84, 133],
+          [87, 145],
+          [131, 147],
+          [139, 131],
+          [160, 133],
+          [163, 146],
+          [239, 151],
+          [244, 135],
+          [264, 138],
+          [266, 153],
+          [371, 162],
+          [368, 213],
+          [213, 203],
+          [175, 213],
+          [165, 214],
+          [156, 201],
+          [5, 199],
+          [7, 142]
+        ],
+        "text": "ஜிகர்தண்டா",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "9.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_10.png70344": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [26, 23],
+          [150, 22],
+          [148, 53],
+          [93, 52],
+          [86, 58],
+          [27, 60],
+          [27, 23]
+        ],
+        "text": "இந்தியன்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [153, 32],
+          [200, 32],
+          [201, 25],
+          [209, 26],
+          [212, 32],
+          [224, 23],
+          [256, 27],
+          [254, 53],
+          [175, 50],
+          [168, 61],
+          [154, 59],
+          [154, 32]
+        ],
+        "text": "ஓவர்சீஸ்",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [260, 52],
+          [325, 53],
+          [326, 28],
+          [307, 27],
+          [307, 32],
+          [297, 32],
+          [297, 27],
+          [288, 27],
+          [289, 32],
+          [259, 33],
+          [259, 52]
+        ],
+        "text": "வங்கி",
+        "script_language": "tamil"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [60, 81],
+          [123, 81],
+          [124, 61],
+          [115, 61],
+          [111, 65],
+          [97, 65],
+          [94, 59],
+          [63, 63],
+          [58, 79],
+          [60, 80]
+        ],
+        "text": "அறிஞர்",
+        "script_language": "tamil"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [147, 81],
+          [203, 79],
+          [204, 65],
+          [162, 64],
+          [160, 60],
+          [154, 61],
+          [155, 65],
+          [127, 64],
+          [126, 80],
+          [147, 81]
+        ],
+        "text": "அண்ணா",
+        "script_language": "tamil"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [206, 75],
+          [207, 64],
+          [229, 65],
+          [230, 62],
+          [236, 61],
+          [240, 68],
+          [238, 78],
+          [219, 78],
+          [209, 83],
+          [205, 81],
+          [206, 75]
+        ],
+        "text": "நகர்",
+        "script_language": "tamil"
+      },
+      "polygon_6": {
+        "coordinates": [
+          [249, 78],
+          [297, 78],
+          [296, 66],
+          [265, 65],
+          [260, 61],
+          [254, 62],
+          [252, 67],
+          [249, 67],
+          [249, 78]
+        ],
+        "text": "கிளை",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "10.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_11.jpg19773": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [128, 78],
+          [490, 58],
+          [494, 118],
+          [121, 137],
+          [119, 107]
+        ],
+        "text": "அட்சயாஸ்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [292, 167],
+          [325, 180],
+          [550, 158],
+          [539, 116],
+          [288, 134]
+        ],
+        "text": "ஹோட்டல்ஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "11.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_12.jpg16220": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [155, 47],
+          [285, 48],
+          [255, 102],
+          [151, 92]
+        ],
+        "text": "சாய்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [124, 110],
+          [307, 110],
+          [288, 175],
+          [118, 169]
+        ],
+        "text": "இல்லம்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "12.jpg",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_13.png58201": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [13, 9],
+          [85, 11],
+          [215, 13],
+          [253, 9],
+          [264, 36],
+          [259, 59],
+          [181, 55],
+          [109, 67],
+          [16, 55]
+        ],
+        "text": "ஆர்நாடு",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [104, 88],
+          [120, 72],
+          [160, 68],
+          [188, 69],
+          [205, 60],
+          [224, 71],
+          [266, 72],
+          [279, 61],
+          [288, 74],
+          [295, 88],
+          [295, 107],
+          [179, 107],
+          [150, 114],
+          [109, 106]
+        ],
+        "text": "அரங்கம்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "13.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_14.png39485": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [24, 10],
+          [58, 6],
+          [96, 5],
+          [96, 30],
+          [26, 34]
+        ],
+        "text": "அகர்வால்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [103, 8],
+          [133, 6],
+          [134, 2],
+          [140, 2],
+          [140, 5],
+          [144, 7],
+          [144, 27],
+          [103, 28]
+        ],
+        "text": "பவன்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "14.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_15.png72309": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [13, 58],
+          [208, 49],
+          [211, 34],
+          [239, 35],
+          [238, 47],
+          [301, 47],
+          [299, 103],
+          [194, 108],
+          [150, 125],
+          [15, 118]
+        ],
+        "text": "எவரெஸ்ட்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [313, 40],
+          [425, 27],
+          [496, 22],
+          [505, 7],
+          [534, 19],
+          [558, 19],
+          [559, 7],
+          [581, 8],
+          [587, 21],
+          [614, 23],
+          [617, 75],
+          [450, 87],
+          [409, 106],
+          [351, 96],
+          [335, 109],
+          [312, 103]
+        ],
+        "text": "டிரேடா்ஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "15.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_16.png19827": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [7, 27],
+          [55, 29],
+          [62, 18],
+          [77, 19],
+          [79, 29],
+          [180, 31],
+          [189, 20],
+          [216, 23],
+          [225, 32],
+          [244, 27],
+          [265, 35],
+          [265, 70],
+          [41, 66],
+          [9, 77],
+          [4, 59]
+        ],
+        "text": "தங்கமயில்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "16.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_17.png47651": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [116, 21],
+          [156, 16],
+          [169, 25],
+          [163, 65],
+          [122, 73],
+          [109, 61],
+          [118, 53]
+        ],
+        "text": "தி",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [179, 27],
+          [216, 27],
+          [221, 44],
+          [218, 67],
+          [182, 65],
+          [175, 51]
+        ],
+        "text": "ஐ",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [244, 22],
+          [375, 29],
+          [395, 21],
+          [412, 28],
+          [570, 26],
+          [598, 41],
+          [594, 77],
+          [463, 79],
+          [362, 75],
+          [282, 72],
+          [235, 64],
+          [231, 52]
+        ],
+        "text": "ஃபவுண்டேஷன்",
+        "script_language": "tamil"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [141, 81],
+          [197, 81],
+          [209, 76],
+          [221, 84],
+          [243, 87],
+          [235, 118],
+          [141, 117]
+        ],
+        "text": "கண்",
+        "script_language": "tamil"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [255, 83],
+          [333, 85],
+          [349, 86],
+          [367, 85],
+          [570, 91],
+          [568, 125],
+          [410, 122],
+          [389, 130],
+          [357, 125],
+          [327, 133],
+          [288, 121],
+          [251, 118]
+        ],
+        "text": "மருத்துவமனை",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "17.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_18.png64930": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [21, 17],
+          [95, 19],
+          [103, 18],
+          [108, 26],
+          [116, 28],
+          [114, 44],
+          [78, 43],
+          [75, 48],
+          [19, 41]
+        ],
+        "text": "விஷன்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [121, 22],
+          [157, 23],
+          [161, 20],
+          [169, 22],
+          [175, 34],
+          [173, 45],
+          [120, 44],
+          [118, 36]
+        ],
+        "text": "கேர்",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [180, 23],
+          [218, 22],
+          [298, 29],
+          [300, 54],
+          [243, 52],
+          [235, 54],
+          [181, 48],
+          [178, 37]
+        ],
+        "text": "ஆப்டிக்ஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "18.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_19.png81725": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [8, 10],
+          [42, 10],
+          [46, 2],
+          [63, 2],
+          [80, 7],
+          [84, 1],
+          [108, 2],
+          [114, 8],
+          [168, 9],
+          [162, 34],
+          [43, 33],
+          [31, 43],
+          [17, 44],
+          [6, 30]
+        ],
+        "text": "பூர்விகா",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "19.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_20.png40381": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [55, 32],
+          [56, 68],
+          [98, 68],
+          [105, 54],
+          [104, 17]
+        ],
+        "text": "ஸ்ரீ",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [145, 25],
+          [210, 22],
+          [214, 9],
+          [265, 5],
+          [271, 50],
+          [270, 56],
+          [219, 57],
+          [139, 61],
+          [110, 62],
+          [110, 18],
+          [136, 11]
+        ],
+        "text": "மீனாட்சி",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [69, 92],
+          [149, 89],
+          [154, 62],
+          [129, 61],
+          [97, 68],
+          [73, 70]
+        ],
+        "text": "ஃபேன்",
+        "script_language": "tamil"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [159, 66],
+          [226, 61],
+          [244, 57],
+          [247, 57],
+          [257, 74],
+          [256, 86],
+          [166, 91],
+          [159, 94],
+          [154, 88]
+        ],
+        "text": "ஹவுஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "20.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_21.png95042": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [3, 75],
+          [4, 10],
+          [72, 17],
+          [167, 40],
+          [191, 22],
+          [205, 28],
+          [213, 44],
+          [231, 46],
+          [226, 92]
+        ],
+        "text": "வென்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [247, 47],
+          [414, 47],
+          [451, 71],
+          [441, 107],
+          [282, 113],
+          [255, 113],
+          [241, 92]
+        ],
+        "text": "யூசன்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "21.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_22.png11234": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [10, 4],
+          [124, 9],
+          [124, 38],
+          [69, 37],
+          [68, 46],
+          [35, 45],
+          [31, 38],
+          [10, 35]
+        ],
+        "text": "ஜோஸ்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [170, 11],
+          [254, 9],
+          [256, 5],
+          [267, 4],
+          [272, 10],
+          [328, 10],
+          [335, 3],
+          [341, 3],
+          [360, 10],
+          [360, 32],
+          [253, 33],
+          [237, 38],
+          [231, 44],
+          [168, 42]
+        ],
+        "text": "அலுகாஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "22.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_23.png56789": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [22, 21],
+          [280, 24],
+          [271, 94],
+          [26, 88]
+        ],
+        "text": "சில்வர்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [362, 86],
+          [368, 31],
+          [417, 31],
+          [419, 43],
+          [553, 46],
+          [555, 26],
+          [591, 28],
+          [593, 42],
+          [623, 53],
+          [623, 93],
+          [472, 95],
+          [381, 92]
+        ],
+        "text": "பேலஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "23.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_24.png23456": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [21, 47],
+          [161, 35],
+          [159, 71],
+          [20, 82]
+        ],
+        "text": "லாலா",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [198, 19],
+          [365, 3],
+          [371, 7],
+          [372, 42],
+          [201, 58]
+        ],
+        "text": "பேக்கரி",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [195, 115],
+          [381, 104],
+          [369, 62],
+          [292, 63],
+          [207, 73],
+          [195, 78]
+        ],
+        "text": "ஸ்வீட்ஸ்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "24.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  },
+  "NA_25.png78901": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [13, 15],
+          [38, 13],
+          [85, 17],
+          [134, 18],
+          [193, 18],
+          [197, 28],
+          [207, 32],
+          [206, 57],
+          [135, 59],
+          [13, 49]
+        ],
+        "text": "அமிர்தம்",
+        "script_language": "tamil"
+      }
+    },
+    "url": "NA",
+    "image_name": "25.png",
+    "split": "train/test split",
+    "folderName": "NA"
+  }
+}

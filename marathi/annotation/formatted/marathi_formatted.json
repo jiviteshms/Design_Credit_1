@@ -1,0 +1,1429 @@
+{
+    "NA_img2.JPG45907": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [305, 103],
+                    [310, 155],
+                    [409, 168],
+                    [406, 116],
+                    [305, 104]
+                ],
+                "text": "एक",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [215, 140],
+                    [219, 189],
+                    [176, 186],
+                    [171, 223],
+                    [297, 245],
+                    [308, 232],
+                    [428, 226],
+                    [454, 228],
+                    [449, 177],
+                    [286, 170],
+                    [228, 127],
+                    [215, 143]
+                ],
+                "text": "प्रेमाचा",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [352, 233],
+                    [360, 266],
+                    [419, 285],
+                    [448, 323],
+                    [522, 330],
+                    [516, 252],
+                    [483, 223],
+                    [350, 231]
+                ],
+                "text": "चहा",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [107, 279],
+                    [105, 308],
+                    [183, 311],
+                    [185, 275],
+                    [109, 275],
+                    [106, 282]
+                ],
+                "text": "प्रेमाच्या",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [188, 276],
+                    [188, 303],
+                    [258, 304],
+                    [258, 271],
+                    [188, 279]
+                ],
+                "text": "भावनेनं",
+                "script_language": "marathi"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [263, 273],
+                    [258, 306],
+                    [354, 306],
+                    [347, 271],
+                    [263, 274]
+                ],
+                "text": "बनवलेला",
+                "script_language": "marathi"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [212, 312],
+                    [212, 344],
+                    [278, 338],
+                    [280, 314],
+                    [211, 314]
+                ],
+                "text": "अस्सल",
+                "script_language": "marathi"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [285, 311],
+                    [281, 332],
+                    [342, 343],
+                    [348, 308],
+                    [285, 311]
+                ],
+                "text": "चवीचा",
+                "script_language": "marathi"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [489, 122],
+                    [491, 151],
+                    [535, 151],
+                    [532, 119],
+                    [486, 125]
+                ],
+                "text": "ISO",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "img2.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img3.JPG13357": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [149, 91],
+                    [340, 80],
+                    [336, 135],
+                    [137, 140],
+                    [150, 90]
+                ],
+                "text": "श्रीनिधी",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [345, 100],
+                    [342, 118],
+                    [382, 118],
+                    [385, 100],
+                    [344, 101]
+                ],
+                "text": "साडी",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [391, 98],
+                    [391, 112],
+                    [433, 112],
+                    [431, 97],
+                    [390, 98]
+                ],
+                "text": "सेंटर",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [439, 98],
+                    [439, 115],
+                    [488, 109],
+                    [488, 87],
+                    [439, 98]
+                ],
+                "text": "आणि",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [341, 119],
+                    [339, 135],
+                    [394, 135],
+                    [394, 115],
+                    [339, 116],
+                    [341, 130]
+                ],
+                "text": "फॅशन",
+                "script_language": "marathi"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [399, 113],
+                    [399, 134],
+                    [460, 132],
+                    [457, 111],
+                    [396, 114]
+                ],
+                "text": "लेडीज",
+                "script_language": "marathi"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [458, 111],
+                    [463, 130],
+                    [508, 127],
+                    [509, 103],
+                    [457, 113]
+                ],
+                "text": "टेलर्स",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img3.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img4.jpg14485": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [278, 77],
+                    [36, 86],
+                    [33, 18],
+                    [273, 22],
+                    [274, 77]
+                ],
+                "text": "द्वारकानाथ",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [279, 21],
+                    [282, 79],
+                    [505, 78],
+                    [502, 16],
+                    [278, 23]
+                ],
+                "text": "राजाराम",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [504, 15],
+                    [510, 76],
+                    [663, 90],
+                    [668, 9],
+                    [505, 1],
+                    [505, 27]
+                ],
+                "text": "वेदक",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [228, 82],
+                    [401, 85],
+                    [398, 119],
+                    [228, 119],
+                    [230, 82]
+                ],
+                "text": "ज्वेलर्स",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img4.jpg",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img5.JPG30087": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [15, 14],
+                    [14, 121],
+                    [123, 118],
+                    [179, 183],
+                    [245, 182],
+                    [209, 106],
+                    [313, 113],
+                    [348, 181],
+                    [396, 179],
+                    [369, 100],
+                    [471, 106],
+                    [575, 111],
+                    [623, 5],
+                    [397, 7],
+                    [18, 1],
+                    [11, 31]
+                ],
+                "text": "मराठेशाही",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [385, 108],
+                    [401, 175],
+                    [544, 180],
+                    [537, 114],
+                    [383, 111]
+                ],
+                "text": "चहा",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [541, 114],
+                    [551, 188],
+                    [716, 188],
+                    [715, 90],
+                    [596, 87],
+                    [587, 114],
+                    [539, 117]
+                ],
+                "text": "स्टॉप",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img5.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img6.JPG17020": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [19, 12],
+                    [126, 40],
+                    [151, 26],
+                    [231, 53],
+                    [246, 98],
+                    [375, 135],
+                    [375, 230],
+                    [9, 132],
+                    [21, 10]
+                ],
+                "text": "चांदेकर",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img6.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img7.JPG6082": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [9, 17],
+                    [15, 114],
+                    [169, 131],
+                    [162, 44],
+                    [7, 22]
+                ],
+                "text": "बेकरी",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img7.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img8.JPG25358": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [7, 16],
+                    [4, 174],
+                    [375, 181],
+                    [361, 57],
+                    [91, 55],
+                    [56, 9],
+                    [4, 19]
+                ],
+                "text": "विजय",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [375, 48],
+                    [388, 194],
+                    [641, 202],
+                    [619, 49],
+                    [374, 48]
+                ],
+                "text": "ट्रेडर्स",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img8.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img9.JPG31062": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [230, 12],
+                    [227, 68],
+                    [390, 63],
+                    [389, 4],
+                    [229, 14]
+                ],
+                "text": "आरोग्य",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [138, 76],
+                    [140, 148],
+                    [226, 149],
+                    [232, 163],
+                    [280, 161],
+                    [278, 140],
+                    [327, 140],
+                    [334, 164],
+                    [400, 156],
+                    [396, 132],
+                    [484, 137],
+                    [482, 71],
+                    [135, 76]
+                ],
+                "text": "अमृततुल्य",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [204, 178],
+                    [303, 181],
+                    [301, 210],
+                    [203, 212],
+                    [205, 177]
+                ],
+                "text": "चहाप्रेमींचा",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [308, 178],
+                    [308, 204],
+                    [378, 205],
+                    [372, 174],
+                    [308, 180]
+                ],
+                "text": "चार्जिंग",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [378, 175],
+                    [382, 209],
+                    [431, 207],
+                    [430, 173],
+                    [377, 177]
+                ],
+                "text": "पॉईंट",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img9.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img10.JPG21905": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [15, 3],
+                    [21, 91],
+                    [268, 91],
+                    [268, 5],
+                    [13, 7]
+                ],
+                "text": "मोक्ष",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [276, 15],
+                    [279, 83],
+                    [604, 113],
+                    [601, 15],
+                    [275, 18]
+                ],
+                "text": "प्लाझा",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [70, 100],
+                    [72, 147],
+                    [310, 149],
+                    [306, 98],
+                    [68, 101]
+                ],
+                "text": "MOKSH",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [317, 104],
+                    [321, 152],
+                    [545, 152],
+                    [513, 106],
+                    [315, 108]
+                ],
+                "text": "PLAZA",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "img10.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img11.JPG11148": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [2, 55],
+                    [113, 43],
+                    [103, 111],
+                    [0, 102],
+                    [4, 52]
+                ],
+                "text": "रेणुका",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [119, 43],
+                    [114, 92],
+                    [300, 83],
+                    [299, 10],
+                    [118, 44]
+                ],
+                "text": "ज्वेलर्स",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img11.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img12.JPG8525": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [24, 47],
+                    [193, 2],
+                    [237, 12],
+                    [236, 114],
+                    [8, 151],
+                    [28, 42]
+                ],
+                "text": "विजय",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img12.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img13.JPG10538": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [6, 3],
+                    [2, 68],
+                    [233, 68],
+                    [233, 1],
+                    [5, 4]
+                ],
+                "text": "आशिष",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [33, 73],
+                    [29, 111],
+                    [124, 114],
+                    [124, 79],
+                    [32, 74]
+                ],
+                "text": "लेडीज",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [133, 74],
+                    [127, 116],
+                    [211, 116],
+                    [211, 76],
+                    [133, 69],
+                    [131, 81]
+                ],
+                "text": "टेलर",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img13.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img14.JPG18072": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [40, 21],
+                    [36, 114],
+                    [167, 125],
+                    [184, 154],
+                    [220, 127],
+                    [275, 122],
+                    [271, 10],
+                    [193, 10],
+                    [193, 45],
+                    [40, 25]
+                ],
+                "text": "आरती",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [259, 131],
+                    [293, 132],
+                    [277, 118],
+                    [317, 118],
+                    [322, 135],
+                    [391, 132],
+                    [391, 186],
+                    [257, 183],
+                    [262, 130]
+                ],
+                "text": "कलेक्शन",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [9, 149],
+                    [9, 162],
+                    [70, 166],
+                    [71, 151],
+                    [9, 150]
+                ],
+                "text": "WOMAN",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [73, 150],
+                    [72, 167],
+                    [135, 167],
+                    [135, 152],
+                    [73, 151]
+                ],
+                "text": "CLOTHES",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [149, 156],
+                    [148, 170],
+                    [237, 172],
+                    [238, 154],
+                    [148, 156]
+                ],
+                "text": "ACCESSORIES",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "img14.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img15.JPG6827": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [20, 4],
+                    [151, 11],
+                    [150, 83],
+                    [7, 77],
+                    [22, 4]
+                ],
+                "text": "मयुर",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [160, 34],
+                    [228, 36],
+                    [230, 80],
+                    [159, 77],
+                    [163, 33]
+                ],
+                "text": "भांडी",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [235, 36],
+                    [239, 79],
+                    [311, 79],
+                    [309, 31],
+                    [235, 40]
+                ],
+                "text": "भंडार",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img15.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img16.JPG18445": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [76, 31],
+                    [77, 178],
+                    [432, 191],
+                    [424, 37],
+                    [169, 19],
+                    [171, 58],
+                    [75, 33]
+                ],
+                "text": "सदिच्छा",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [105, 204],
+                    [206, 210],
+                    [221, 201],
+                    [238, 218],
+                    [236, 247],
+                    [103, 238],
+                    [108, 204]
+                ],
+                "text": "मालवणी",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [249, 215],
+                    [250, 244],
+                    [281, 250],
+                    [280, 212],
+                    [248, 216]
+                ],
+                "text": "व",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [289, 207],
+                    [290, 245],
+                    [396, 252],
+                    [397, 211],
+                    [287, 210]
+                ],
+                "text": "कोंकणी",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img16.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img17.JPG15114": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [5, 2],
+                    [7, 60],
+                    [37, 85],
+                    [69, 120],
+                    [119, 116],
+                    [129, 78],
+                    [183, 79],
+                    [208, 109],
+                    [233, 100],
+                    [233, 5],
+                    [4, 4]
+                ],
+                "text": "रुतबा",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [392, 5],
+                    [396, 105],
+                    [591, 101],
+                    [585, 0],
+                    [391, 6]
+                ],
+                "text": "पान",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img17.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img18.JPG12806": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [110, 63],
+                    [111, 102],
+                    [177, 105],
+                    [185, 52],
+                    [109, 64]
+                ],
+                "text": "आई",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [187, 63],
+                    [187, 99],
+                    [223, 98],
+                    [217, 55],
+                    [186, 66]
+                ],
+                "text": "चं",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [78, 99],
+                    [256, 106],
+                    [253, 145],
+                    [73, 142],
+                    [80, 98]
+                ],
+                "text": "स्वयंंपाकघर",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img18.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img20.JPG17156": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [22, 21],
+                    [22, 90],
+                    [205, 85],
+                    [200, 13],
+                    [21, 25]
+                ],
+                "text": "लक्ष्मी",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [212, 12],
+                    [216, 92],
+                    [433, 86],
+                    [428, 4],
+                    [209, 13]
+                ],
+                "text": "निवास",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img20.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img21.JPG10331": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [19, 7],
+                    [238, 9],
+                    [199, 98],
+                    [152, 98],
+                    [140, 62],
+                    [99, 68],
+                    [74, 103],
+                    [13, 102],
+                    [25, 7]
+                ],
+                "text": "सुजाता",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [234, 36],
+                    [214, 83],
+                    [318, 91],
+                    [340, 104],
+                    [346, 99],
+                    [324, 45],
+                    [231, 38]
+                ],
+                "text": "आर्टस्",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img21.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img22.JPG11499": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [9, 60],
+                    [71, 60],
+                    [58, 12],
+                    [137, 7],
+                    [157, 54],
+                    [137, 63],
+                    [169, 71],
+                    [164, 143],
+                    [1, 133],
+                    [9, 58]
+                ],
+                "text": "मार्तंड",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [182, 61],
+                    [208, 61],
+                    [214, 35],
+                    [241, 44],
+                    [239, 68],
+                    [337, 67],
+                    [334, 111],
+                    [351, 128],
+                    [263, 129],
+                    [267, 151],
+                    [194, 148],
+                    [183, 60]
+                ],
+                "text": "कुंज",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img22.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img23.JPG27248": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [12, 42],
+                    [68, 39],
+                    [83, 16],
+                    [121, 17],
+                    [126, 46],
+                    [111, 70],
+                    [73, 83],
+                    [103, 95],
+                    [105, 113],
+                    [37, 97],
+                    [25, 81],
+                    [8, 77],
+                    [13, 42]
+                ],
+                "text": "मराठी",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [128, 37],
+                    [119, 71],
+                    [267, 68],
+                    [263, 32],
+                    [126, 38]
+                ],
+                "text": "Bussiness",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [272, 28],
+                    [274, 66],
+                    [385, 65],
+                    [379, 24],
+                    [272, 33]
+                ],
+                "text": "Group",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [141, 80],
+                    [139, 93],
+                    [157, 91],
+                    [159, 78],
+                    [140, 81]
+                ],
+                "text": "एक",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [164, 78],
+                    [163, 90],
+                    [189, 89],
+                    [185, 74],
+                    [161, 76],
+                    [164, 82]
+                ],
+                "text": "मेका",
+                "script_language": "marathi"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [191, 77],
+                    [193, 90],
+                    [233, 87],
+                    [227, 73],
+                    [190, 77]
+                ],
+                "text": "सहाय्य",
+                "script_language": "marathi"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [231, 76],
+                    [236, 94],
+                    [262, 92],
+                    [257, 74],
+                    [230, 78]
+                ],
+                "text": "करू",
+                "script_language": "marathi"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [264, 73],
+                    [265, 85],
+                    [296, 85],
+                    [292, 71],
+                    [262, 74]
+                ],
+                "text": "अवघे",
+                "script_language": "marathi"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [300, 71],
+                    [300, 84],
+                    [323, 84],
+                    [320, 70],
+                    [298, 73]
+                ],
+                "text": "धरू",
+                "script_language": "marathi"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [323, 70],
+                    [320, 97],
+                    [364, 83],
+                    [361, 66],
+                    [322, 70]
+                ],
+                "text": "सुपंथ",
+                "script_language": "marathi"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [232, 94],
+                    [242, 109],
+                    [175, 110],
+                    [178, 97],
+                    [244, 97]
+                ],
+                "text": "Powered",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [244, 98],
+                    [245, 113],
+                    [265, 113],
+                    [263, 87],
+                    [245, 97]
+                ],
+                "text": "करू",
+                "script_language": "marathi"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [62, 124],
+                    [54, 151],
+                    [25, 145],
+                    [38, 119],
+                    [62, 124]
+                ],
+                "text": "Y",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [72, 122],
+                    [125, 123],
+                    [120, 148],
+                    [59, 148],
+                    [76, 118]
+                ],
+                "text": "Axis",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [135, 120],
+                    [127, 147],
+                    [265, 144],
+                    [261, 120],
+                    [132, 122]
+                ],
+                "text": "Software",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [269, 115],
+                    [270, 141],
+                    [438, 142],
+                    [429, 114],
+                    [265, 117]
+                ],
+                "text": "Company",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [275, 154],
+                    [276, 178],
+                    [82, 176],
+                    [97, 154],
+                    [275, 155]
+                ],
+                "text": "9225818780",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [332, 146],
+                    [293, 149],
+                    [290, 176],
+                    [311, 177],
+                    [309, 144]
+                ],
+                "text": "1",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [332, 150],
+                    [330, 180],
+                    [361, 181],
+                    [356, 149],
+                    [330, 152]
+                ],
+                "text": "2",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "img23.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img24.JPG15732": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [17, 8],
+                    [143, 11],
+                    [136, 106],
+                    [9, 92],
+                    [21, 5]
+                ],
+                "text": "गुरु",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [155, 8],
+                    [153, 77],
+                    [239, 80],
+                    [231, 9],
+                    [152, 9]
+                ],
+                "text": "दा",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [241, 10],
+                    [247, 75],
+                    [406, 82],
+                    [401, 10],
+                    [237, 12]
+                ],
+                "text": "ढाबा",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [206, 83],
+                    [277, 82],
+                    [272, 114],
+                    [203, 114],
+                    [210, 80]
+                ],
+                "text": "फॅमिली",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [275, 79],
+                    [273, 110],
+                    [340, 113],
+                    [340, 87],
+                    [273, 85]
+                ],
+                "text": "रेस्टॉरंट",
+                "script_language": "marathi"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [345, 87],
+                    [381, 88],
+                    [383, 114],
+                    [344, 112],
+                    [347, 87]
+                ],
+                "text": "अँड",
+                "script_language": "marathi"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [385, 87],
+                    [388, 113],
+                    [423, 113],
+                    [418, 85],
+                    [384, 89]
+                ],
+                "text": "बार",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img24.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img25.JPG10720": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [19, 14],
+                    [79, 23],
+                    [68, 6],
+                    [106, 10],
+                    [117, 27],
+                    [257, 36],
+                    [248, 69],
+                    [192, 78],
+                    [187, 100],
+                    [132, 100],
+                    [128, 83],
+                    [6, 49],
+                    [22, 12]
+                ],
+                "text": "गोकुळ",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [235, 72],
+                    [293, 74],
+                    [296, 106],
+                    [236, 103],
+                    [241, 71]
+                ],
+                "text": "प्युअर",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [295, 66],
+                    [300, 104],
+                    [344, 102],
+                    [334, 62],
+                    [294, 67]
+                ],
+                "text": "व्हेज",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img25.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img19.JPG8076": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [21, 8],
+                    [55, 8],
+                    [58, 24],
+                    [9, 24],
+                    [23, 8]
+                ],
+                "text": "हॉटेल",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [13, 30],
+                    [270, 11],
+                    [268, 0],
+                    [324, 0],
+                    [328, 10],
+                    [384, 7],
+                    [382, 63],
+                    [191, 78],
+                    [121, 78],
+                    [32, 78],
+                    [9, 77],
+                    [12, 28]
+                ],
+                "text": "नानासाहेब",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img19.JPG",
+        "split": "train/test split",
+        "folderName": "NA"
+    },
+    "NA_img1.jpg28433": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [59, 168],
+                    [323, 180],
+                    [334, 236],
+                    [59, 244],
+                    [60, 167]
+                ],
+                "text": "शुभारंग",
+                "script_language": "marathi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [158, 262],
+                    [249, 266],
+                    [251, 291],
+                    [154, 290],
+                    [159, 262]
+                ],
+                "text": "होलसेल",
+                "script_language": "marathi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [256, 268],
+                    [258, 290],
+                    [313, 294],
+                    [308, 268],
+                    [292, 261],
+                    [287, 271],
+                    [256, 270]
+                ],
+                "text": "साडी",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [316, 266],
+                    [318, 291],
+                    [363, 292],
+                    [360, 263],
+                    [316, 267]
+                ],
+                "text": "डेपो",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [366, 266],
+                    [367, 291],
+                    [412, 292],
+                    [409, 260],
+                    [365, 266]
+                ],
+                "text": "अँड",
+                "script_language": "marathi"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [415, 263],
+                    [415, 293],
+                    [488, 296],
+                    [483, 266],
+                    [414, 267]
+                ],
+                "text": "रेडीमेड",
+                "script_language": "marathi"
+            }
+        },
+        "url": "NA",
+        "image_name": "img1.jpg",
+        "split": "train/test split",
+        "folderName": "NA"
+    }
+}
